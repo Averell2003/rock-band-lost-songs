@@ -17,6 +17,7 @@ Welcome to the Rock Band Lost Songs repo. This repo contains lost Rock Band Netw
 * Indochine - L'Aventurier
 * Metallica - Fuel
 * Metallica - King Nothing
+* Nirvana (Wavegroup) - Come as You Are
 
 ## Lost Rock Band Network 1.0:
 * Coalmine - Canary
